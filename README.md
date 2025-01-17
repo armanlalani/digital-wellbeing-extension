@@ -29,4 +29,4 @@ This project aims to create a Chrome Extension that promotes digital well-being 
    ```bash
    git clone <repository_url>
    ```
-2. To load the extension in your browser - **[Load the extension]([`https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked`])**
+2. Load your extension locally - **[Load the extension]([`https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked`])**
